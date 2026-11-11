@@ -1,0 +1,5 @@
+.git
+.vercel
+.netlify
+.vercelignore
+wrangler.jsonc
