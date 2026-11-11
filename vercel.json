@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/contact",
+      "destination": "/contact.html"
+    },
+    {
+      "source": "/blog-two",
+      "destination": "/blog"
+    },
+    {
+      "source": "/blogs",
+      "destination": "/blog"
+    },
+    {
+      "source": "/blog-post/your-guide-to-adorable-money-management",
+      "destination": "/blog-post-your-business-has-a-vision"
+    },
+    {
+      "source": "/blog-post/your-business-has-a-vision",
+      "destination": "/blog-post-your-business-has-a-vision"
+    },
+    {
+      "source": "/blog-post/positive-youth-development",
+      "destination": "/blog-post-positive-youth-development"
+    },
+    {
+      "source": "/blog-post/1",
+      "destination": "/blog-post-positive-youth-development"
+    },
+    {
+      "source": "/blog-post/2",
+      "destination": "/blog-post-your-business-has-a-vision"
+    }
+  ]
+}
