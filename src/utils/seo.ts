@@ -55,7 +55,8 @@ export const defaultSEOConfig: SEOConfig = {
     'team alignment',
     'operational excellence'
   ],
-  ogImage: 'http://mymarkadvisory.com/images/mymark_founder_tiffany.jpg',
+  ogImage: 'http://mymarkadvisory.com/images/mymark_og_preview.jpg',
+  logoImage: 'http://mymarkadvisory.com/images/mymark_logo.png',
   locale: 'en_US',
   country: 'US',
 };
