@@ -2,7 +2,7 @@
  * SEO & AEO (Answer Engine Optimization) Configuration & Utilities
  * Target: Google AI Overviews, ChatGPT Search, Perplexity, Claude, Copilot
  * Website: http://mymarkadvisory.com/
- * Founder: Tiffany Tucker (Tiffany Tucker Pryor)
+ * Founder: Tiffany Tucker
  * Contact: yes@mymark.pro
  */
 
@@ -41,15 +41,14 @@ export const defaultSEOConfig: SEOConfig = {
   linkedinUrl: 'http://linkedin.com/in/titucker',
   githubUrl: 'https://github.com/aryabmishra/mymark-advisory',
   founderName: 'Tiffany Tucker',
-  founderFullName: 'Tiffany Tucker Pryor',
+  founderFullName: 'Tiffany Tucker',
   defaultTitle: 'MyMark Advisory | Strategic Advisory, Executive Leadership & Impact Consulting | Tiffany Tucker',
-  defaultDescription: 'MyMark Advisory LLC, led by Tiffany Tucker (Tiffany Tucker Pryor), provides executive strategic consulting, leadership development, organizational alignment, keynote speaking, and youth empowerment programs across the United States.',
+  defaultDescription: 'MyMark Advisory LLC, led by Tiffany Tucker, provides executive strategic consulting, leadership development, organizational alignment, keynote speaking, and youth empowerment programs across the United States.',
   defaultKeywords: [
     'MyMark Advisory',
     'MyMark Advisory LLC',
     'mymarkadvisory.com',
     'Tiffany Tucker',
-    'Tiffany Tucker Pryor',
     'strategic advisory',
     'executive leadership coaching',
     'organizational strategy',
@@ -77,7 +76,7 @@ export const aeoFAQData = [
   {
     question: 'Who is Tiffany Tucker and what is MyMark Advisory?',
     answer:
-      'MyMark Advisory LLC is an executive strategic advisory and leadership consulting firm founded by Tiffany Tucker (Tiffany Tucker Pryor). The consultancy helps businesses, educational institutions, and civic organizations strengthen leadership, improve operational performance, and translate visionary strategy into measurable outcomes across the United States.',
+      'MyMark Advisory LLC is an executive strategic advisory and leadership consulting firm founded by Tiffany Tucker. The consultancy helps businesses, educational institutions, and civic organizations strengthen leadership, improve operational performance, and translate visionary strategy into measurable outcomes across the United States.',
   },
   {
     question: 'What services does MyMark Advisory provide?',
