@@ -1,0 +1,20 @@
+# Canonical clean URL redirects for AI Answer Engines & Web Crawlers
+# Prevents hallucinated 404s from ChatGPT, Perplexity, Claude, Google AI
+/about            /#about           301
+/services         /#services        301
+/contact          /contact.html     301
+/booking          /contact.html     301
+/schedule         /contact.html     301
+/book             /contact.html     301
+/consultation     /contact.html     301
+/founder          /#founder         301
+/tiffany          /#founder         301
+/tiffany-tucker   /#founder         301
+/process          /#process         301
+/approach         /#process         301
+/who-we-serve     /#who-we-serve    301
+/insights         /#insights        301
+/blogs            /blog.html        301
+/blog             /blog.html        301
+/youth            /#who-we-serve    301
+/leadership       /#services        301
