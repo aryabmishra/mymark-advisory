@@ -22,6 +22,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>http://mymarkadvisory.com/privacy-policy</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mymarkadvisory.com/terms-and-conditions</loc>
+    <lastmod>2026-11-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mymarkadvisory.com/blog-post-your-business-has-a-vision.html</loc>
     <lastmod>2026-11-16</lastmod>
     <changefreq>monthly</changefreq>
