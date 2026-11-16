@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mymarkadvisory.com/sitemap.xml
+Sitemap: https://mymarkadvisory.com/sitemap.xml
